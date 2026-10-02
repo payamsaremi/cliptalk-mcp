@@ -193,7 +193,11 @@ Every video can be vertical (9:16), square (1:1), feed (4:5) or horizontal (16:9
 
 ## Skills
 
-The [`skills/`](skills/) directory holds one [Agent Skill](https://agent-plugins.org/) per format. Each one tells your assistant what to ask for, when to preview the price, how to wait for the render, and how to check the result before handing it over. The Claude Code, Cursor and Gemini packages in this repo install them together with the server.
+The [`skills/`](skills/) directory holds one [Agent Skill](https://agent-plugins.org/) per format. Each one tells your assistant what to ask for, when to preview the price, how to wait for the render, and how to check the result before handing it over. The Claude Code, Cursor and Gemini packages in this repo install them together with the server, or add just the skills to any agent:
+
+```bash
+npx skills add payamsaremi/cliptalk-mcp
+```
 
 | Skill | What it makes | Try |
 | --- | --- | --- |
