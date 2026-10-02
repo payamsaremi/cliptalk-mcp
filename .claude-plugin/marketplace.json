@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cliptalk",
+  "description": "ClipTalk plugin marketplace for Claude Code",
+  "owner": {
+    "name": "PROSPIA",
+    "email": "support@cliptalk.pro"
+  },
+  "plugins": [
+    {
+      "name": "cliptalk",
+      "displayName": "ClipTalk",
+      "description": "Create and edit videos for TikTok, Reels and YouTube from a chat: script, AI visuals, voiceover, captions, music, ready-to-post MP4.",
+      "version": "1.0.0",
+      "author": {
+        "name": "PROSPIA",
+        "email": "support@cliptalk.pro"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/payamsaremi/cliptalk-mcp"
+    }
+  ]
+}

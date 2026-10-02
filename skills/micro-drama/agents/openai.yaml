@@ -1,0 +1,15 @@
+interface:
+  display_name: "Micro Drama"
+  short_description: "A scripted scene with characters who speak"
+  icon_small: "./assets/icon.png"
+  brand_color: "#FF00FF"
+  default_prompt: "Make a micro drama about a betrayal caught on camera"
+policy:
+  allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cliptalk"
+      description: "ClipTalk video tools"
+      transport: "streamable_http"
+      url: "https://www.cliptalk.pro/mcp"

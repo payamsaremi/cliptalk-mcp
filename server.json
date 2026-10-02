@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "pro.cliptalk/cliptalk",
+  "title": "ClipTalk",
+  "description": "Create and edit social videos from chat: script, AI visuals, voiceover, captions, music, MP4.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.cliptalk.pro/mcp-server",
+  "repository": {
+    "url": "https://github.com/payamsaremi/cliptalk-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/payamsaremi/cliptalk-mcp/main/assets/icon.png",
+      "mimeType": "image/png",
+      "sizes": ["1024x1024"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.cliptalk.pro/mcp"
+    }
+  ]
+}

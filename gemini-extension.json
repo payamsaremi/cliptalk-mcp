@@ -1,0 +1,9 @@
+{
+  "name": "cliptalk",
+  "version": "1.0.0",
+  "mcpServers": {
+    "cliptalk": {
+      "httpUrl": "https://www.cliptalk.pro/mcp"
+    }
+  }
+}

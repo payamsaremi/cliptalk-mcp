@@ -1,0 +1,15 @@
+interface:
+  display_name: "Quiz & Repeating Video Formats"
+  short_description: "Quiz and flashcard videos in motion graphics"
+  icon_small: "./assets/icon.png"
+  brand_color: "#FF00FF"
+  default_prompt: "Make a 5-question quiz video about world capitals"
+policy:
+  allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cliptalk"
+      description: "ClipTalk video tools"
+      transport: "streamable_http"
+      url: "https://www.cliptalk.pro/mcp"

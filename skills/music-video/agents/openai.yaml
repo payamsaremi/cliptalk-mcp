@@ -1,0 +1,15 @@
+interface:
+  display_name: "AI Music Video"
+  short_description: "Shots for your song, timed to the lyrics"
+  icon_small: "./assets/icon.png"
+  brand_color: "#FF00FF"
+  default_prompt: "Make a music video for my song"
+policy:
+  allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cliptalk"
+      description: "ClipTalk video tools"
+      transport: "streamable_http"
+      url: "https://www.cliptalk.pro/mcp"

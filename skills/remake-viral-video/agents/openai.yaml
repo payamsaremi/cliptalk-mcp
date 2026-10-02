@@ -1,0 +1,15 @@
+interface:
+  display_name: "Remake a Viral Video"
+  short_description: "Remake a viral video's format for your brand"
+  icon_small: "./assets/icon.png"
+  brand_color: "#FF00FF"
+  default_prompt: "Analyze this viral video and remake it for my brand"
+policy:
+  allow_implicit_invocation: true
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "cliptalk"
+      description: "ClipTalk video tools"
+      transport: "streamable_http"
+      url: "https://www.cliptalk.pro/mcp"

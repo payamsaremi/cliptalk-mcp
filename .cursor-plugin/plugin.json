@@ -1,0 +1,17 @@
+{
+  "name": "cliptalk",
+  "displayName": "ClipTalk",
+  "description": "Create and edit videos for TikTok, Reels and YouTube from a chat: script, AI visuals, voiceover, captions, music, ready-to-post MP4.",
+  "version": "1.0.0",
+  "author": {
+    "name": "PROSPIA",
+    "url": "https://www.cliptalk.pro"
+  },
+  "homepage": "https://www.cliptalk.pro/mcp-server",
+  "repository": "https://github.com/payamsaremi/cliptalk-mcp",
+  "license": "MIT",
+  "keywords": ["cliptalk", "mcp", "video", "tiktok", "reels", "shorts", "skills"],
+  "logo": "assets/icon.png",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
