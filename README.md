@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <a href="https://glama.ai/mcp/servers/payamsaremi/cliptalk-mcp"><img src="https://img.shields.io/badge/Glama-listed-000000" alt="Listed on Glama"></a>
+  <a href="https://smithery.ai/servers/cliptalkai/cliptalk"><img src="https://img.shields.io/badge/Smithery-listed-EA580C" alt="Listed on Smithery"></a>
+  <a href="https://allmcps.com/mcp/cliptalk"><img src="https://allmcps.com/api/badge/cliptalk?style=shield" alt="AllMCPs Verified"></a>
+</p>
+
+<p align="center">
   <a href="https://www.cliptalk.pro/mcp-server"><b>Website</b></a> ·
   <a href="#tools"><b>Tools</b></a> ·
   <a href="#skills"><b>Skills</b></a> ·
