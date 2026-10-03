@@ -3,8 +3,8 @@
   "name": "pro.cliptalk/cliptalk",
   "title": "ClipTalk",
   "description": "Create and edit social videos from chat: script, AI visuals, voiceover, captions, music, MP4.",
-  "version": "1.0.0",
-  "websiteUrl": "https://www.cliptalk.pro/mcp-server",
+  "version": "1.0.1",
+  "websiteUrl": "https://www.cliptalk.pro/mcp",
   "repository": {
     "url": "https://github.com/payamsaremi/cliptalk-mcp",
     "source": "github"

@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.cliptalk.pro/mcp-server"><b>Website</b></a> ·
+  <a href="https://www.cliptalk.pro/mcp"><b>Website</b></a> ·
   <a href="#tools"><b>Tools</b></a> ·
   <a href="#skills"><b>Skills</b></a> ·
   <a href="#data-and-security"><b>Data &amp; security</b></a> ·
