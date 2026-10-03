@@ -116,6 +116,7 @@ The first time a tool runs, your client opens the ClipTalk sign-in page. Sign in
 * [Credits and pricing](#credits-and-pricing)
 * [Data and security](#data-and-security)
 * [Troubleshooting](#troubleshooting)
+* [Find ClipTalk on](#find-cliptalk-on)
 * [Support and feedback](#support-and-feedback)
 
 ## What you can make
@@ -239,6 +240,17 @@ As with any MCP server, only connect clients you trust, and keep an eye on what 
 | The video isn't ready yet | Rendering takes a few minutes. Ask the assistant to check on the video again |
 | Sign-in loops or fails | Remove the ClipTalk connector from your client and add it again to start a fresh sign-in |
 | "Insufficient credits" | Check your balance with `get_credits` and top up at [cliptalk.pro/pricing](https://www.cliptalk.pro/pricing) |
+
+## Find ClipTalk on
+
+ClipTalk is listed in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=pro.cliptalk) (`pro.cliptalk/cliptalk`) and in these directories and marketplaces:
+
+* [Glama](https://glama.ai/mcp/servers/payamsaremi/cliptalk-mcp) and the [Glama connector page](https://glama.ai/mcp/connectors/pro.cliptalk/cliptalk)
+* [Smithery](https://smithery.ai/servers/cliptalkai/cliptalk)
+* [AllMCPs](https://allmcps.com/mcp/cliptalk)
+* [MCPLookup](https://mcplookup.com/server/pro.cliptalk/cliptalk)
+* [ClaudeMarketplace](https://www.claudemarketplace.net), the Claude Code plugin and MCP server marketplace
+* [agentskill.sh](https://agentskill.sh) for the ClipTalk agent skills
 
 ## Support and feedback
 
